@@ -1,2 +1,3 @@
 # RGB-Color-Game
-Guess what shape matches the RGB color! Made with html/css and vanilla JS.
+Guess which square shares the matching color in the title! 
+Or, use a RGB wheel to find the color.
